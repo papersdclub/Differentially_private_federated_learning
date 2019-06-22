@@ -2,7 +2,7 @@
 
 ## Basic Info
 
-### Orignal paper: 
+### Original paper: 
 **Paper: ["Differentially Private Federated Learning: A Client Level Perspective"](https://arxiv.org/pdf/1712.07557.pdf)** 
 
 ### Quiz
