@@ -17,8 +17,8 @@ Will be released soon
 
 
 ## Implementation summary
-| Author          | Language      | Short Link  |
-| -------------   |:-------------:| -----:|
-| Tensorflow Authors | Python        | [Original DL with DP implementation](https://github.com/tensorflow/privacy/tree/master/privacy) | 
-| R. Geyer et al. | Python | [Original implementation of the current paper](https://github.com/SAP/machine-learning-diff-private-federated-learning)
+| Author          | Language      | Short Link  | Comment |
+| -------------   |:-------------:| -----:| ---------|
+| Tensorflow Authors | Python        | [Original DL with DP implementation](https://github.com/tensorflow/privacy/tree/master/privacy) | **study resource** |
+| R. Geyer et al. | Python | [Original implementation of the current paper](https://github.com/SAP/machine-learning-diff-private-federated-learning) | **study resource** |
 
