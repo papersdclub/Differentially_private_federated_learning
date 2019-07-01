@@ -6,7 +6,7 @@
 **Paper: ["Differentially Private Federated Learning: A Client Level Perspective"](https://arxiv.org/pdf/1712.07557.pdf)** 
 
 ### Quiz
-Will be released soon
+- [Quiz](https://www.surveymonkey.com/r/2ZN8NGC)(take after you complete the paper).
 
 ## Resources 
 (add links to Medium articles and other things here if you think it's appropriate: add the name of the resource and a link)
