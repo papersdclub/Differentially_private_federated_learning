@@ -21,4 +21,6 @@
 | -------------   |:-------------:| -----:| ---------|
 | Tensorflow Authors | Python        | [Original DL with DP implementation](https://github.com/tensorflow/privacy/tree/master/privacy) | **study resource** |
 | R. Geyer et al. | Python | [Original implementation of the current paper](https://github.com/SAP/machine-learning-diff-private-federated-learning) | **study resource** |
+| Nicolas Araque | Python | [Implementation of the current paper](https://github.com/naraquev/Private-AI/blob/master/research/Diff_Private_Learning_Client_Persp.ipynb) |  |
+
 
